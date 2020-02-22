@@ -1,38 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c547f83d-78fa-47d3-8b0a-05e0176dab95" name="Default" comment="" />
+    <list default="true" id="a7d6899d-8a02-4959-8cc3-62d0cb7f1233" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RamanLab$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1562696661604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RamanLab$GoogleGrab.coverage" NAME="GoogleGrab Coverage Results" MODIFIED="1562696404501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RobotControl" />
+    <SUITE FILE_PATH="coverage/RamanLab$GoogleGrab__1_.coverage" NAME="GoogleGrab (1) Coverage Results" MODIFIED="1562776807246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RamanLab$GoogleGrab_V2.coverage" NAME="GoogleGrab_V2 Coverage Results" MODIFIED="1562776875969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-461442426">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="m" value="2" />
+          <entry key="pstat" value="2" />
+          <entry key="py" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Mathematica" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Profiler Session" value="2" />
+          <entry key="Python" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="56" />
+          <entry key="dummy" value="29" />
+          <entry key="py" value="2885" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="2941" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1583725002">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PiMotorRemote.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/New/LineFollow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
-                <element signature="e#1#15#0" expanded="true" />
+                <element signature="e#23#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LineSensingCyborgPi.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/New/LineFollowReverse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="4777">
+              <caret line="282" column="42" selection-end-line="406" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/New/testting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3774">
+              <caret line="223" column="14" selection-start-line="223" selection-start-column="14" selection-end-line="223" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/New/tracking.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3247">
+              <caret line="192" column="22" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#23#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,63 +125,63 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>stop</find>
-      <find>STOP</find>
-      <find>hamdist</find>
-      <find>this</find>
-      <find>K2</find>
-      <find>batch</find>
-      <find>inp</find>
-      <find>top</find>
-      <find>4.18</find>
-      <find>4.839</find>
-      <find>522</find>
-      <find>528</find>
-      <find>540</find>
-      <find>492</find>
-      <find>4000</find>
-      <find>Value</find>
-      <find>xavier</find>
-      <find>moment</find>
-      <find>kern</find>
-      <find>grad</find>
-      <find>accu</find>
-      <find>params</find>
-      <find>conv</find>
-      <find>.grad</find>
-      <find>momen</find>
-      <find>cost</find>
+      <find>15</find>
+      <find>forwa</find>
+      <find>25</find>
+      <find>ramp</find>
+      <find>pause</find>
+      <find>pauserev</find>
+      <find>R2</find>
+      <find>,5</find>
+      <find>spin</find>
+      <find>bRight</find>
     </findStrings>
     <replaceStrings>
-      <replace>error</replace>
+      <replace>15</replace>
+      <replace>25</replace>
+      <replace>10</replace>
+      <replace>,7</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cyborgpi" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PiMotorRun.py" />
-        <option value="$PROJECT_DIR$/PiMotorRemote.py" />
-        <option value="$PROJECT_DIR$/singleLineFollower.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset4/code/prob2.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset4/code/prob3a.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset4/code/prob3b.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset4/code/prob4.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset5/code/test.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset5/code/mnist.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset5/code/mnist_conv.py" />
-        <option value="$PROJECT_DIR$/../cse559a/pset5/code/edf.py" />
-        <option value="$PROJECT_DIR$/LineSensingCyborgPi.py" />
+        <option value="$PROJECT_DIR$/cyborgpi-master/LineSensingCyborgPi.py" />
+        <option value="$PROJECT_DIR$/cyborgpi-master/LineSensingCyborgPiSlow.py" />
+        <option value="$PROJECT_DIR$/cyborgpi-master/LineSensingCyborgPiSlowShort.py" />
+        <option value="$PROJECT_DIR$/ML/Test1.py" />
+        <option value="$PROJECT_DIR$/RobotControl/GoogleGrab.py" />
+        <option value="$PROJECT_DIR$/ask_google.py" />
+        <option value="$PROJECT_DIR$/GoogleGrab.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/RobotControl/Test.py" />
+        <option value="$PROJECT_DIR$/RobotControl/LineFollowReverse.py" />
+        <option value="$PROJECT_DIR$/lfr.py" />
+        <option value="$PROJECT_DIR$/LFRTF.py" />
+        <option value="$PROJECT_DIR$/RobotControl/LineFollow.py" />
+        <option value="$PROJECT_DIR$/New/tracking.py" />
+        <option value="$PROJECT_DIR$/New/LineFollowReverse.py" />
+        <option value="$PROJECT_DIR$/New/testting.py" />
+        <option value="$PROJECT_DIR$/New/LineFollow.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1280" />
-    <option name="height" value="722" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -115,20 +191,40 @@
         <subPane>
           <expand>
             <path>
-              <item name="cyborgpi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RamanLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RamanLab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RamanLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RamanLab" type="462c0819:PsiDirectoryNode" />
               <item name="cyborgpi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RamanLab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RamanLab" type="462c0819:PsiDirectoryNode" />
+              <item name="New" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pranav Maddula\Documents\RamanLab\cyborgpi-master" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pranav Maddula\Documents\RamanLab" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,39 +238,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mnist_conv">
-    <configuration default="true" type="tests" factoryName="Attests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="cyborgpi" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
-    </configuration>
-    <configuration name="edf" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cyborgpi" />
+  <component name="RunManager" selected="Python.GoogleGrab_V2">
+    <configuration name="GoogleGrab (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamanLab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cse559a/pset5/code" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../cse559a/pset5/code/edf.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GoogleGrab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,19 +261,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cyborgpi" />
+    <configuration name="GoogleGrab" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamanLab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cse559a/pset5/code" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RobotControl" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../cse559a/pset5/code/mnist.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Pranav Maddula\Documents\RamanLab\GoogleGrab.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,19 +283,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mnist_conv" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cyborgpi" />
+    <configuration name="GoogleGrab_V2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamanLab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cse559a/pset5/code" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../cse559a/pset5/code/mnist_conv.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GoogleGrab_V2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,40 +305,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prob4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cyborgpi" />
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RamanLab" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cse559a/pset4/code" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../cse559a/pset4/code/prob4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cyborgpi" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../cse559a/pset5/code" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../cse559a/pset5/code/test.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Pranav Maddula\Documents\RamanLab\GoogleGrab_V2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,19 +328,17 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.prob4" />
-      <item itemvalue="Python.edf" />
-      <item itemvalue="Python.mnist" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.mnist_conv" />
+      <item itemvalue="Python.GoogleGrab" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.GoogleGrab_V2" />
+      <item itemvalue="Python.GoogleGrab (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mnist_conv" />
-        <item itemvalue="Python.mnist" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.edf" />
-        <item itemvalue="Python.prob4" />
+        <item itemvalue="Python.GoogleGrab_V2" />
+        <item itemvalue="Python.GoogleGrab (1)" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.GoogleGrab" />
       </list>
     </recent_temporary>
   </component>
@@ -289,100 +347,244 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c547f83d-78fa-47d3-8b0a-05e0176dab95" name="Default" comment="" />
-      <created>1535491165016</created>
+      <changelist id="a7d6899d-8a02-4959-8cc3-62d0cb7f1233" name="Default Changelist" comment="" />
+      <created>1555018185817</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1535491165016</updated>
+      <updated>1555018185817</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="722" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24798712" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33936957" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.496875" weight="0.32924962" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48125" visible="true" weight="0.32924962" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51875" side_tool="true" visible="true" weight="0.32924962" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31656605" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/../cse559a/pset4/code/prob3a.py</url>
-          <line>134</line>
+          <url>file://$PROJECT_DIR$/cyborgpi-master/PiMotor.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/behavior.py" />
-    <entry file="file://$PROJECT_DIR$/MotorUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3045">
-          <caret line="204" column="23" selection-start-line="204" selection-start-column="23" selection-end-line="204" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PiMotorRun.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PiMotor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/singleLineFollower.py" />
-    <entry file="file://$PROJECT_DIR$/Line_Follower.py">
+    <entry file="file://$PROJECT_DIR$/cyborgpi-master/Line_Follower.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset4/code/prob2.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset4/code/prob4.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset5/code/mnist.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset5/code/test.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset4/code/prob3a.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset4/code/prob3b.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset5/code/mnist_conv.py" />
-    <entry file="file://$PROJECT_DIR$/../cse559a/pset5/code/edf.py" />
-    <entry file="file://$PROJECT_DIR$/PiMotorRemote.py">
+    <entry file="file://$PROJECT_DIR$/cyborgpi-master/PiMotor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="13" />
+        <state>
+          <caret selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RobotControl/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="83" column="14" lean-forward="true" selection-end-line="84" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyborgpi-master/LineSensingCyborgPi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="193" column="8" selection-start-line="193" selection-start-column="7" selection-end-line="193" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ECoG_Control.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyborgpi-master/LineSensingCyborgPiSlow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="175" column="30" selection-start-line="175" selection-start-column="17" selection-end-line="175" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ML/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_baseline.m">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleGrab_V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cyborgpi-master/LineSensingCyborgPiSlowShort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoogleGrab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4352">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_Intan_RHD2000_file.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RobotControl/LineFollow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2514">
+          <caret line="327" column="27" lean-forward="true" selection-start-line="327" selection-start-column="27" selection-end-line="327" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5304">
+          <caret line="313" column="24" selection-start-line="313" selection-start-column="24" selection-end-line="313" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RobotControl/LineFollowReverse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="150" selection-start-line="150" selection-end-line="176" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lfr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="178" selection-start-line="150" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LFRTF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="99" column="31" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/LineFollow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding>
-            <element signature="e#1#15#0" expanded="true" />
+            <element signature="e#23#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LineSensingCyborgPi.py">
+    <entry file="file://$PROJECT_DIR$/New/LineFollowReverse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="4777">
+          <caret line="282" column="42" selection-end-line="406" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/testting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3774">
+          <caret line="223" column="14" selection-start-line="223" selection-start-column="14" selection-end-line="223" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/New/tracking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="192" column="22" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#23#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
